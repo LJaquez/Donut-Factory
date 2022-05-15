@@ -7,4 +7,5 @@ Donuts SVGs were created by me using Inkscape.
 
 When button "Bake Donut" is pressed, one out of four possible donut flavors will display on screen. Multiple can be "baked" before evoking them to bounce around the screen. They will move at different speeds. The more you press the "Bounce Button" the faster they go.
 
-<img src="donut1.svg">
+[<img src="donut-vid-thumbnail.png">](https://www.youtube.com/watch?v=1Pi9sq_1OJk "Donut Facctory Demo")
+
